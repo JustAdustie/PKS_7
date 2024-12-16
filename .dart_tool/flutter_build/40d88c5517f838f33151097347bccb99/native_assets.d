@@ -1,0 +1,1 @@
+ G:\\Unik\\Suda\\spo7\\PKS7\\.dart_tool\\flutter_build\\40d88c5517f838f33151097347bccb99\\native_assets.yaml: 
